@@ -683,7 +683,7 @@ header .top-menue .link2 a:hover {
   margin-bottom: 10%;
 }
 
-.books-block-top button {
+.books-block-top .button-html {
   width: 100%;
   background: black;
   color: white;

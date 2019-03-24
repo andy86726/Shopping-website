@@ -474,6 +474,7 @@ header .top-menue .link2 a:hover {
 }
 
 .goods-picture ul {
+  padding: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -995,7 +996,7 @@ header .top-menue .link2 a:hover {
 
 @media screen and (max-width: 768px) {
   .container {
-    width: 700px;
+    width: 90%;
   }
   .container1 {
     width: 350px;

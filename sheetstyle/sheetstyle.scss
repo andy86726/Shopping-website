@@ -108,6 +108,7 @@ header{
 }
 .goods-picture{
     ul{
+        padding: 0;
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
@@ -516,7 +517,7 @@ header{
 }
 @media screen and(max-width:768px){
     .container{
-        width: 700px;
+        width: 90%;
     }
     .container1{
         width: 350px;
